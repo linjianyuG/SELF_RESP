@@ -1,9 +1,10 @@
 #include <stdarg.h>
-//#include "hello.h"
+#include "hello.h"
 
 void hello(void)
 {
 	printf("%s","hello world!");
+	printf("%s","add a new branch dev!");
 }
 
 void printf(const char *fmt,...)

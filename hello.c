@@ -5,6 +5,7 @@ void hello(void)
 {
 	printf("%s","hello world!");
 	printf("%s","add a new branch dev!");
+	printf("%s","test branch again!");
 }
 
 void printf(const char *fmt,...)
